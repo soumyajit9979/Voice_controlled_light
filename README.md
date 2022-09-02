@@ -1,0 +1,2 @@
+# Voice_controlled_light
+This is a voice order system based light project, here an app is created, and you have to order to turn off the lights or turn them on, and the code will be send to arduino through bluetooth, and the phone will be connected to the bluetooth module i.e, HC-05, it will command arduino about the order, arduino will be programmed in such a way that when the command is received, it will turn on the relay connected to the lights
